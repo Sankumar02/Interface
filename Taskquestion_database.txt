@@ -1,0 +1,5 @@
+*Create an interface named DatabaseConnector, in which create a abstract method named connectToDataBase().
+
+*Create three classes named OracleDataBase, MongoDataBase, SqlServerDataBase, in which create the implementation for connectToDataBase method by printing the particular database name.
+
+*Create a class named DatabaseConnectionTester, from this class call the connectToDataBase method for all the three databases and print their names.s
